@@ -1,0 +1,4 @@
+model,roc_auc,pr_auc,brier
+logistic,0.8523,0.7978,0.1489
+lightgbm,0.8641,0.8174,0.1434
+lightgbm+isotonic,0.8638,0.8075,0.1436
